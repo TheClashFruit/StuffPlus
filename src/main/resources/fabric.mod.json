@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "blocksplus",
+  "version": "${version}",
+  "name": "Blocks+",
+  "description": "Addition blocks that I think is missing from the game.",
+  "authors": [
+    "TheClashFruit"
+  ],
+  "contact": {
+    "website": "https://projects.theclashfruit.me/mods/blocks-plus",
+    "repo": "https://github.com/TheClashFruit/BlocksPlus"
+  },
+  "license": "MPL-2.0",
+  "icon": "assets/blocksplus/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "me.theclashfruit.blocksplus.blocksplus.client.BlocksplusClient"
+    ],
+    "main": [
+      "me.theclashfruit.blocksplus.blocksplus.Blocksplus"
+    ]
+  },
+  "mixins": [
+    "blocksplus.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.10",
+    "fabric": "*",
+    "minecraft": "1.19.2"
+  }
+}

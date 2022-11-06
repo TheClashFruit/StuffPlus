@@ -1,0 +1,11 @@
+{
+  "block.minecraft.bookshelf": "Oak Bookshelf",
+  "block.blocksplus.spruce_bookshelf": "Spruce Bookshelf",
+  "block.blocksplus.birch_bookshelf": "Birch Bookshelf",
+  "block.blocksplus.jungle_bookshelf": "Jungle Bookshelf",
+  "block.blocksplus.acacia_bookshelf": "Acacia Bookshelf",
+  "block.blocksplus.dark_oak_bookshelf": "Dark Oak Bookshelf",
+  "block.blocksplus.mangrove_bookshelf": "Mangrove Bookshelf",
+
+  "itemGroup.blocksplus.general": "Blocks+"
+}
