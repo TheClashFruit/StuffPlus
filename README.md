@@ -1,5 +1,8 @@
 # BlocksPlus
 
+Modrinth: https://modrinth.com/mod/blocks-plus
+CurseForge: coming soon...
+
 Addition blocks that I think is missing from the game.
 
 ----
