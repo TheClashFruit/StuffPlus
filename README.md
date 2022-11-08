@@ -1,9 +1,21 @@
-# BlocksPlus
+<h1 align="center">Blocks+</h1>
 
-Modrinth: https://modrinth.com/mod/blocks-plus
-CurseForge: coming soon...
+<p align="center">
+  <img alt="GitHub" src="https://img.shields.io/github/license/TheClashFruit/BlocksPlus">
+  <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/TheClashFruit/BlocksPlus/total">
+  <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/TheClashFruit/BlocksPlus">
+</p>
 
-Addition blocks that I think is missing from the game.
+<p align="center">
+  <a href="https://modrinth.com/mod/blocks-plus">
+    <img alt="Download: Modrinth" src="https://img.shields.io/badge/Download-Modrinth-brightgreen">
+  </a>
+  <a href="#">
+    <img alt="Download: CurseForge" src="https://img.shields.io/badge/Download-CurseForge-orange">
+  </a>
+</p>
+
+Additional blocks and items that I think is missing from the game.
 
 ----
 
