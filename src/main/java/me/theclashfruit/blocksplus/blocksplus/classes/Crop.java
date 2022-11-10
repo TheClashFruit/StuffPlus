@@ -1,4 +1,4 @@
-package me.theclashfruit.blocksplus.blocksplus;
+package me.theclashfruit.blocksplus.blocksplus.classes;
 
 import com.google.gson.*;
 import com.google.gson.annotations.JsonAdapter;
@@ -10,7 +10,6 @@ import net.minecraft.util.registry.Registry;
 
 import java.lang.reflect.Type;
 import java.util.Map;
-import java.util.concurrent.atomic.AtomicReference;
 import java.util.function.Predicate;
 
 // https://github.com/koellecraft/Right-Click-Harvest

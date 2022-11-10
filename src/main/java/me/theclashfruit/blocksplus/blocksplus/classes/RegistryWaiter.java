@@ -1,4 +1,4 @@
-package me.theclashfruit.blocksplus.blocksplus;
+package me.theclashfruit.blocksplus.blocksplus.classes;
 
 
 import static java.util.stream.Collectors.toMap;

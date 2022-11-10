@@ -1,4 +1,4 @@
-package me.theclashfruit.blocksplus.blocksplus;
+package me.theclashfruit.blocksplus.blocksplus.classes;
 
 import net.minecraft.block.BlockState;
 import net.minecraft.block.entity.BlockEntity;
