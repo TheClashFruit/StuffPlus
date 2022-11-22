@@ -1,0 +1,11 @@
+{
+  "replace": "false",
+  "values": [
+    "blocksplus:spruce_bookshelf",
+    "blocksplus:birch_bookshelf",
+    "blocksplus:jungle_bookshelf",
+    "blocksplus:acacia_bookshelf",
+    "blocksplus:dark_oak_bookshelf",
+    "blocksplus:mangrove_bookshelf"
+  ]
+}
